@@ -1,0 +1,1 @@
+import{ou as o}from"./DcIiJu1j.js";var a=o("/icon-default.png");export{a as t};
