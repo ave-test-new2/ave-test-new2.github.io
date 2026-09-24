@@ -1,0 +1,1 @@
+import{Cs as e,Zt as i}from"./CykohdSp.js";var t=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{t};
