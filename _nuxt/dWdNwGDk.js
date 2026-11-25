@@ -1,0 +1,1 @@
+import{g as i}from"./CPimatTZ.js";import{wi as o}from"./D3u7zpk7.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};

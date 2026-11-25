@@ -1,0 +1,1 @@
+import{g as e}from"./CPimatTZ.js";import{wi as i}from"./D3u7zpk7.js";var o=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{o as t};
